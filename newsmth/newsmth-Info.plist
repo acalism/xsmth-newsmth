@@ -9,42 +9,11 @@
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIcons</key>
-	<dict>
-		<key>CFBundlePrimaryIcon</key>
-		<dict>
-			<key>CFBundleIconFiles</key>
-			<array>
-				<string>icon_57</string>
-				<string>icon_114</string>
-				<string>icon_80</string>
-				<string>icon_58</string>
-				<string>icon</string>
-				<string>icon_120</string>
-				<string>icon@2x.png</string>
-			</array>
-		</dict>
-	</dict>
+	<dict/>
 	<key>CFBundleIcons~ipad</key>
-	<dict>
-		<key>CFBundlePrimaryIcon</key>
-		<dict>
-			<key>CFBundleIconFiles</key>
-			<array>
-				<string>icon_100</string>
-				<string>icon_76</string>
-				<string>icon_72</string>
-				<string>icon_144</string>
-				<string>icon_152</string>
-				<string>icon_80</string>
-				<string>icon_58</string>
-				<string>icon</string>
-				<string>icon_120</string>
-				<string>icon@2x.png</string>
-			</array>
-		</dict>
-	</dict>
+	<dict/>
 	<key>CFBundleIdentifier</key>
-	<string>me.maxwin.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
