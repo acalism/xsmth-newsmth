@@ -1,5 +1,5 @@
 PODS:
-  - ActionSheetPicker-3.0 (1.3.10)
+  - ActionSheetPicker-3.0 (1.3.12)
   - ReactiveCocoa (2.3.1):
     - ReactiveCocoa/UI (= 2.3.1)
   - ReactiveCocoa/Core (2.3.1):
@@ -15,8 +15,8 @@ DEPENDENCIES:
   - WKVerticalScrollBar
 
 SPEC CHECKSUMS:
-  ActionSheetPicker-3.0: a60eed5b5090116114ce9557c7cabcf45f81ce5f
-  ReactiveCocoa: dca75777b9d18990c8714a3a6f2149f29b4d1462
-  WKVerticalScrollBar: 89fef80e76da266f2e7717db6bf35853a609022a
+  ActionSheetPicker-3.0: 9fd0713777fad3a3f3b89ea58c75d59ccdef28f4
+  ReactiveCocoa: 334468a83b2c5f669f7cfb9a084415ee23219b4f
+  WKVerticalScrollBar: 555c3473ada57433e7d891ba73d1fc9de8ab848f
 
-COCOAPODS: 0.35.0
+COCOAPODS: 0.38.2
